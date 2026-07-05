@@ -2,6 +2,7 @@
 
 
 
+
 # Ürün İle İlgili Bilgiler
 
 ## Takım Üyeleri
@@ -36,6 +37,9 @@
 - Evinde bitki yetiştiren hobi kullanıcıları
 - Ziraat mühendisleri ve danışmanlar
 - Botanik ve bahçecilik meraklıları
+  
+## Sprint Board
+<img width="636" height="385" alt="image" src="https://github.com/user-attachments/assets/01896a6e-98d6-4ef1-a697-f1ae89921d38" />
 
 ## Web Adresi
 
