@@ -1,6 +1,6 @@
-# **Takım İsmi**
+# **Takım 114**
 
-Takım 114
+
 
 # Ürün İle İlgili Bilgiler
 
