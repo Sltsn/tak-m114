@@ -8,8 +8,8 @@
 
 ## 👥 Ekibimiz (Contributors)
 
-| İsim Soyisim | Rolü | GitHub | LinkedIn |
-| :--- | :--- | :---: | :---: |
+| İsim Soyisim | Rolü | LinkedIn |
+| :--- | :--- | :---: |
 | [Osman Karabağ](https://github.com/osmankarabag) | Scrum Master |  [LinkedIn](https://linkedin.com/in/osman_linkedin) |
 | [Sıla](https://github.com/sila) | Product Owner | [LinkedIn](https://linkedin.com/in/sila_linkedin) |
 | [Zeynep Sude Kırmacı](https://github.com/Zeynep-Sude) | Developer | [LinkedIn](https://linkedin.com/in/zeynep_linkedin) |
