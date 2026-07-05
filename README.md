@@ -13,7 +13,7 @@
 | [Osman Karabağ](https://github.com/osmankarabag) | Scrum Master |  [LinkedIn](https://www.linkedin.com/in/osman-karaba%C4%9F/) |
 | [Sıla](https://github.com/sila) | Product Owner | [LinkedIn](https://linkedin.com/in/sila_linkedin) |
 | [Zeynep Sude Kırmacı](https://github.com/Zeynep-Sude) | Developer | [LinkedIn](https://linkedin.com/in/zeynep_linkedin) |
-| [Eylül Ülgen](https://github.com/thunderBolt3224) | Developer | [LinkedIn](www.linkedin.com/in/eylül-ülgen-579828251) |
+| [Eylül Ülgen](https://github.com/thunderBolt3224) | Developer | [LinkedIn](https://www.linkedin.com/in/eylül-ülgen-579828251) |
 | [Gökay](https://github.com/gokayoz35) | Developer | [LinkedIn](https://linkedin.com/in/gokay_linkedin) |
 
 
