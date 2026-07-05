@@ -5,7 +5,11 @@ Takım 114
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-
+Osman Karabağ
+Zeynep Sude Kırmacı
+Sıla
+Eylül Ülgen
+Gökay
 
 ## Ürün İsmi
 
