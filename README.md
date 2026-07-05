@@ -10,7 +10,7 @@
 
 | İsim Soyisim | Rolü | LinkedIn |
 | :--- | :--- | :---: |
-| [Osman Karabağ](https://github.com/osmankarabag) | Scrum Master |  [LinkedIn](https://linkedin.com/in/osman_linkedin) |
+| [Osman Karabağ](https://github.com/osmankarabag) | Scrum Master |  [LinkedIn]([https://linkedin.com/in/osman_linkedin](https://www.linkedin.com/in/osman-karaba%C4%9F/)) |
 | [Sıla](https://github.com/sila) | Product Owner | [LinkedIn](https://linkedin.com/in/sila_linkedin) |
 | [Zeynep Sude Kırmacı](https://github.com/Zeynep-Sude) | Developer | [LinkedIn](https://linkedin.com/in/zeynep_linkedin) |
 | [Eylül Ülgen](https://github.com/thunderBolt3224) | Developer | [LinkedIn](https://linkedin.com/in/eylul_linkedin) |
