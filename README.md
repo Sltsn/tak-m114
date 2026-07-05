@@ -13,7 +13,7 @@
 
 ## Ürün İsmi
 
---AgroKlinik--
+-AgroKlinik
 
 ## Ürün Açıklaması
 
