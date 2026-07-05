@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Takım İsmi**
 
-## Getting Started
+Takım 114
 
-First, run the development server:
+# Ürün İle İlgili Bilgiler
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Takım Elemanları
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Ürün İsmi
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+--AgroKlinik--
 
-## Learn More
+## Ürün Açıklaması
 
-To learn more about Next.js, take a look at the following resources:
+- AgroKlinik, çiftçilerin ve tarım severlerin bitkilerindeki hastalıkları yapay zeka desteğiyle anında tespit etmelerini sağlayan modern bir web uygulamasıdır. Kullanıcılar bitki fotoğraflarını yükleyerek hastalık teşhisi alabilir, tedavi yöntemlerini öğrenebilir ve uzmanlardan klinik destek talep edebilirler.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Ürün Özellikleri
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Fotoğraf analizi ile yapay zeka destekli bitki hastalığı teşhisi
+- Bitki hastalıkları kataloğu ve detaylı tedavi/bakım rehberi
+- Bölgesel tarım ve hava durumu tavsiyeleri
+- Modern, responsive (mobil uyumlu) ve yeşil tonlarında kullanıcı dostu arayüz
 
-## Deploy on Vercel
+## Hedef Kitle
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Çiftçiler ve tarım üreticileri
+- Evinde bitki yetiştiren hobi kullanıcıları
+- Ziraat mühendisleri ve danışmanlar
+- Botanik ve bahçecilik meraklıları
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Web Adresi
+Adres: [http://localhost:3000](http://localhost:3000)
+
+
+# Sprint 1
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. AgroKlinik projesinin temel arayüz tasarımları, Tailwind v4 kurulumu ve Next.js altyapısının hazırlanması bu sprint'in ana odak noktası olmuştur. Story'ler yapılacak işlere (task'lere) bölünmüştür.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack/WhatsApp üzerinden yapılmasına karar verilmiştir.
+
+- **Sprint board update**: Sprint board screenshotları: 
+(Eğer varsa Trello/Miro ekran görüntüsü linklerini buraya ekleyebilirsiniz)
+
+- **Ürün Durumu**: AgroKlinik projesinin ilk çalışan Next.js arayüzü başarıyla ayağa kaldırılmış, GitHub reposuna yüklenmiş ve tasarımsal ilk aşama tamamlanmıştır.
+Veri Setleri belirlendi.
+
+- **Sprint Review**: 
+Alınan kararlar: Projenin Next.js ve Tailwind v4 altyapısı başarıyla kuruldu. globals.css üzerindeki entegrasyon sorunları giderildi. İlk arayüz tasarımları test edildi ve bir sonraki sprint'te yapay zeka servislerinin bağlanması kararlaştırıldı.
+
+- **Sprint Retrospective:**
+  - Proje başlatma ve Git senkronizasyon süreçleri başarıyla tamamlandı.
+  - Gelecek sprintlerde backend ve API entegrasyonu için ayrılacak süre artırılmalı.
+  - Takım içi kod paylaşımı hızı optimize edilmeli.
+
+---
+
+# Sprint 2
+
+
+---
+
+# Sprint 3
