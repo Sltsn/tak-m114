@@ -41,6 +41,10 @@
 ## Sprint Board
 <img width="636" height="385" alt="image" src="https://github.com/user-attachments/assets/01896a6e-98d6-4ef1-a697-f1ae89921d38" />
 
+## Daily Scrum
+
+<img width="1206" height="1473" alt="image" src="https://github.com/user-attachments/assets/c6cc438f-c319-43bd-95c2-efbaa7860ada" />
+
 ## Web Adresi
 
 <img width="1600" height="682" alt="WhatsApp Image 2026-07-05 at 20 26 58" src="https://github.com/user-attachments/assets/ef7da73c-53e3-454b-90b2-59a9a826872e" />
@@ -65,7 +69,7 @@ Adres: [http://localhost:3000](http://localhost:3000)
 Veri Setleri belirlenmiştir.3 ajanlı(Teşhis,Şiddet ve Tedavi) Multi-Agent iskeleti oluşturulmuştur.
 
 - **Sprint Review**: 
-Alınan kararlar: Projenin Next.js ve Tailwind v4 altyapısı başarıyla kuruldu. globals.css üzerindeki entegrasyon sorunları giderildi. İlk arayüz tasarımları test edildi ve bir sonraki sprint'te veri setlerinin düzenlenmesi ve eğitilmesi amaçlandı.
+Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuruldu. globals.css üzerindeki entegrasyon sorunları giderildi. İlk arayüz tasarımları test edildi ve bir sonraki sprint'te veri setlerinin düzenlenmesi ve eğitilmesi amaçlandı.
 
 - **Sprint Retrospective:**
   - Proje başlatma ve Git senkronizasyon süreçleri başarıyla tamamlandı.
