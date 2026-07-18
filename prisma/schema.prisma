@@ -1,0 +1,89 @@
+generator client {
+  provider = "prisma-client-js"
+}
+datasource db {
+  provider = "sqlite"
+  // url      = "file:./dev.db"
+}
+// Kullanıcı Modeli
+model User {
+  id         String   @id @default(uuid())
+  username   String   @unique
+  email      String   @unique
+  password   String
+  firstName  String
+  lastName   String
+  profession String
+  location   String
+  avatar     String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  // İlişkiler
+  posts      Post[]
+  comments   Comment[]
+  analyses   Analysis[]
+}
+// Bitki Analizi Modeli
+model Analysis {
+  id          String   @id @default(uuid())
+  imageUrl    String
+  diagnosis   String
+  solutions   String   // JSON string olarak saklanacak
+  isPublic    Boolean  @default(false)
+  status      String   @default("beklemede") // beklemede, devam ediyor, çözüldü
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  // İlişkiler
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  post        Post?
+  progressLogs ProgressLog[]
+}
+// Paylaşım/Gönderi Modeli
+model Post {
+  id          String   @id @default(uuid())
+  plantName   String
+  description String
+  imageUrl    String
+  status      String   @default("beklemede")
+  likes       Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  // İlişkiler
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  analysisId  String?  @unique
+  analysis    Analysis? @relation(fields: [analysisId], references: [id])
+  comments    Comment[]
+  likedBy     PostLike[]
+}
+// Yorum Modeli
+model Comment {
+  id        String   @id @default(uuid())
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  // İlişkiler
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  postId    String
+  post      Post     @relation(fields: [postId], references: [id], onDelete: Cascade)
+}
+// Beğeni Modeli
+model PostLike {
+  id        String   @id @default(uuid())
+  createdAt DateTime @default(now())
+  userId    String
+  postId    String
+  post      Post     @relation(fields: [postId], references: [id], onDelete: Cascade)
+  @@unique([userId, postId])
+}
+// İlerleme Kaydı Modeli
+model ProgressLog {
+  id         String   @id @default(uuid())
+  status     String
+  note       String
+  createdAt  DateTime @default(now())
+  analysisId String
+  analysis   Analysis @relation(fields: [analysisId], references: [id], onDelete: Cascade)
+}
