@@ -88,7 +88,7 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 <img width="709" height="568" alt="IMG-20260719-WA0009 (1)" src="https://github.com/user-attachments/assets/fba823f6-8518-45d2-8948-5e55d8badf50" />
 
 
-- <img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
+<img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
 
 - **Sprint Review**: 
 Alınan kararlar: Bir sonraki sprint'de veri seti eğitiminin tamamlanmasına karar verildi.
