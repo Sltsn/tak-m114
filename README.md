@@ -107,7 +107,7 @@ Alınan kararlar: Bir sonraki sprint'de veri seti eğitiminin tamamlanmasına ka
   - Veri setlerinin eğitimi başarıyla sürdürülüyor.
   - Gelecek sprintlerde  API entegrasyonu için ayrılacak süre artırılmalı.
 
-## Daily Scrum 2
+## Daily Scrum 
 <img width="1917" height="900" alt="Ekran görüntüsü 2026-07-11 220151" src="https://github.com/user-attachments/assets/b2466301-b9c9-4ed6-a43b-641eedada06e" />
 <br>
 <img width="1918" height="912" alt="Ekran görüntüsü 2026-07-17 210441" src="https://github.com/user-attachments/assets/86472e38-5a69-4455-b95e-2c47ea3650d2" />
