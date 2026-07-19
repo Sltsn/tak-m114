@@ -79,7 +79,7 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 ---
 
 # Sprint 2
-
+- **Ürün Durumu**:Backend kısmı eklenmiştir.Geliştirme süreci devam etmektedir.
 
 ---
 
