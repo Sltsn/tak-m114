@@ -1,5 +1,3 @@
-<img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
-<img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0fadb307-f78d-4ff1-9c2b-26399202248e" />
 # **Takım 114**
 
 
@@ -82,6 +80,8 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 
 # Sprint 2
 - **Ürün Durumu**:Backend kısmı eklenmiştir.Geliştirme süreci devam etmektedir.
+- <img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
+
 
 ---
 
