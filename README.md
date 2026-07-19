@@ -37,6 +37,8 @@
 - Evinde bitki yetiştiren hobi kullanıcıları
 - Ziraat mühendisleri ve danışmanlar
 - Botanik ve bahçecilik meraklıları
+
+# Sprint 1
   
 ## Sprint Board
 <img width="636" height="385" alt="image" src="https://github.com/user-attachments/assets/01896a6e-98d6-4ef1-a697-f1ae89921d38" />
@@ -57,7 +59,6 @@ Adres: [http://localhost:3000](http://localhost:3000)
 
 
 
-# Sprint 1
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir.
 -  AgroKlinik projesinin temel arayüz tasarımları, Tailwind v4 kurulumu ve Next.js altyapısının hazırlanması bu sprint'in ana odak noktası olmuştur.
@@ -81,6 +82,7 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 ---
 
 # Sprint 2
+
 - **Sprint board update**
 <img width="1278" height="628" alt="IMG-20260714-WA0006" src="https://github.com/user-attachments/assets/04fae383-7661-48cd-a7f9-76f2d0e37226" />
 
@@ -91,6 +93,7 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 - Geliştirme süreci devam etmektedir.
 - Veri setleri düzenlendi ve eğitimine devam edilmektedir.
 <img width="709" height="568" alt="IMG-20260719-WA0009 (1)" src="https://github.com/user-attachments/assets/fba823f6-8518-45d2-8948-5e55d8badf50" />
+
 
 
 <img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
@@ -105,6 +108,8 @@ Alınan kararlar: Bir sonraki sprint'de veri seti eğitiminin tamamlanmasına ka
 
 ## Daily Scrum 2
 <img width="1918" height="912" alt="Ekran görüntüsü 2026-07-17 210441" src="https://github.com/user-attachments/assets/86472e38-5a69-4455-b95e-2c47ea3650d2" />
+
+
 
 <img width="1917" height="900" alt="Ekran görüntüsü 2026-07-11 220151" src="https://github.com/user-attachments/assets/b2466301-b9c9-4ed6-a43b-641eedada06e" />
 
