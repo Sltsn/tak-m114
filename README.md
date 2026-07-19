@@ -59,7 +59,9 @@ Adres: [http://localhost:3000](http://localhost:3000)
 
 # Sprint 1
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. AgroKlinik projesinin temel arayüz tasarımları, Tailwind v4 kurulumu ve Next.js altyapısının hazırlanması bu sprint'in ana odak noktası olmuştur. Story'ler yapılacak işlere (task'lere) bölünmüştür.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir.
+-  AgroKlinik projesinin temel arayüz tasarımları, Tailwind v4 kurulumu ve Next.js altyapısının hazırlanması bu sprint'in ana odak noktası olmuştur.
+-  Story'ler yapılacak işlere (task'lere) bölünmüştür.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
 
@@ -84,7 +86,10 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 
 
 
-- **Ürün Durumu**:Backend kısmı eklenmiştir.Geliştirme süreci devam etmektedir.Veri setleri düzenlendi ve eğitimine devam edilmektedir.
+- **Ürün Durumu**:
+- Backend kısmı eklenmiştir.
+- Geliştirme süreci devam etmektedir.
+- Veri setleri düzenlendi ve eğitimine devam edilmektedir.
 <img width="709" height="568" alt="IMG-20260719-WA0009 (1)" src="https://github.com/user-attachments/assets/fba823f6-8518-45d2-8948-5e55d8badf50" />
 
 
