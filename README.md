@@ -85,6 +85,8 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 
 
 - **Ürün Durumu**:Backend kısmı eklenmiştir.Geliştirme süreci devam etmektedir.Veri setleri düzenlendi ve eğitimine devam edilmektedir.
+- <img width="1278" height="628" alt="IMG-20260714-WA0006" src="https://github.com/user-attachments/assets/f02b281b-28e2-48bc-baaf-91f4d518e560" />
+
 - <img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
 
 - **Sprint Review**: 
