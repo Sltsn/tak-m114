@@ -79,9 +79,22 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 ---
 
 # Sprint 2
-- **Ürün Durumu**:Backend kısmı eklenmiştir.Geliştirme süreci devam etmektedir.
+- **Sprint board update**
+- <img width="1278" height="628" alt="IMG-20260714-WA0006" src="https://github.com/user-attachments/assets/04fae383-7661-48cd-a7f9-76f2d0e37226" />
+
+
+
+- **Ürün Durumu**:Backend kısmı eklenmiştir.Geliştirme süreci devam etmektedir.Veri setleri düzenlendi ve eğitimine devam edilmektedir.
 - <img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
 
+- **Sprint Review**: 
+Alınan kararlar: Bir sonraki sprint'de veri seti eğitiminin tamamlanmasına karar verildi.
+- **Sprint Retrospective:**
+  - Proje başlatma ve Git senkronizasyon süreçleri başarıyla tamamlandı.
+  - Frontend ve backend kısmı eklendi.Geliştirilmeye devam ediliyor.
+  - Veri setlerinin eğitimi başarıyla sürdürülüyor.
+  - Gelecek sprintlerde  API entegrasyonu için ayrılacak süre artırılmalı.
+  
 
 ---
 
