@@ -50,9 +50,13 @@
 ## Web Adresi
 
 <img width="1600" height="682" alt="WhatsApp Image 2026-07-05 at 20 26 58" src="https://github.com/user-attachments/assets/ef7da73c-53e3-454b-90b2-59a9a826872e" />
+<br>
 <img width="1600" height="690" alt="WhatsApp Image 2026-07-05 at 20 27 52" src="https://github.com/user-attachments/assets/1f2156e5-d39c-4076-8d6d-b74052834a4f" />
+<br>
 <img width="1600" height="570" alt="WhatsApp Image 2026-07-05 at 20 27 30" src="https://github.com/user-attachments/assets/d975ff19-c15a-416d-b573-e81daf481dcb" />
+<br>
 <img width="1600" height="583" alt="WhatsApp Image 2026-07-05 at 20 26 59" src="https://github.com/user-attachments/assets/6bbcce14-d485-4054-9917-162ccd307b7f" />
+<br>
 <img width="1600" height="580" alt="WhatsApp Image 2026-07-05 at 20 26 59 (1)" src="https://github.com/user-attachments/assets/cf90edc1-92d3-43b4-b5e5-c3208dbdc385" />
 
 Adres: [http://localhost:3000](http://localhost:3000)
@@ -64,7 +68,6 @@ Adres: [http://localhost:3000](http://localhost:3000)
 -  AgroKlinik projesinin temel arayüz tasarımları, Tailwind v4 kurulumu ve Next.js altyapısının hazırlanması bu sprint'in ana odak noktası olmuştur.
 -  Story'ler yapılacak işlere (task'lere) bölünmüştür.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
 
 - **Sprint board update**
 
@@ -93,9 +96,7 @@ Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuru
 - Geliştirme süreci devam etmektedir.
 - Veri setleri düzenlendi ve eğitimine devam edilmektedir.
 <img width="709" height="568" alt="IMG-20260719-WA0009 (1)" src="https://github.com/user-attachments/assets/fba823f6-8518-45d2-8948-5e55d8badf50" />
-
-
-
+<br>
 <img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
 
 - **Sprint Review**: 
@@ -107,11 +108,12 @@ Alınan kararlar: Bir sonraki sprint'de veri seti eğitiminin tamamlanmasına ka
   - Gelecek sprintlerde  API entegrasyonu için ayrılacak süre artırılmalı.
 
 ## Daily Scrum 2
+<img width="1917" height="900" alt="Ekran görüntüsü 2026-07-11 220151" src="https://github.com/user-attachments/assets/b2466301-b9c9-4ed6-a43b-641eedada06e" />
+<br>
 <img width="1918" height="912" alt="Ekran görüntüsü 2026-07-17 210441" src="https://github.com/user-attachments/assets/86472e38-5a69-4455-b95e-2c47ea3650d2" />
 
 
 
-<img width="1917" height="900" alt="Ekran görüntüsü 2026-07-11 220151" src="https://github.com/user-attachments/assets/b2466301-b9c9-4ed6-a43b-641eedada06e" />
 
 
 ---
