@@ -16,6 +16,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   return (
     <div className="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50">
       <Sidebar />
+      {/* Sağdaki sabit bar genişliği kadar (w-20 = 5rem) sağ boşluk bırakılır */}
       <main className="lg:mr-20 min-h-screen pb-20 lg:pb-0">
         {children}
       </main>

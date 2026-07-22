@@ -9,6 +9,7 @@ export default defineConfig({
     path: "prisma/migrations",
   },
   datasource: {
-    url: process.env["DATABASE_URL"],
+    // .env içindeki DATABASE_URL yoksa yerel SQLite dosyasına düş
+    url: process.env["DATABASE_URL"] || "file:./dev.db",
   },
 });
