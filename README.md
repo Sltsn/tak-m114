@@ -119,3 +119,6 @@ Alınan kararlar: Bir sonraki sprint'de veri seti eğitiminin tamamlanmasına ka
 ---
 
 # Sprint 3
+Demo giriş denemesi için kullanıcılar:
+<img width="352" height="98" alt="demo giriş bilgileri" src="https://github.com/user-attachments/assets/62b4811b-cec4-4722-89a2-c7ed6255ef8b" />
+
