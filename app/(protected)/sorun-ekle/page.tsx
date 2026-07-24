@@ -8,8 +8,8 @@ export default function SorunEklePage() {
   const [file, setFile] = useState<File | null>(null);
   const [preview, setPreview] = useState<string | null>(null);
   const [isDragActive, setIsDragActive] = useState(false);
-  
-  const { analyzeImage, currentAnalysis, isAnalyzing } = useAnalysisStore();
+
+  const { analyzeImage, currentAnalysis, isAnalyzing, error } = useAnalysisStore();
 
   const handleDrop = useCallback((e: React.DragEvent) => {
     e.preventDefault();
@@ -126,6 +126,13 @@ export default function SorunEklePage() {
                 <>🔍 Analizi Başlat</>
               )}
             </button>
+
+            {error && (
+              <div className="bg-red-50 text-red-600 px-4 py-3 rounded-xl text-sm flex items-center gap-2">
+                <span>⚠️</span>
+                {error}
+              </div>
+            )}
           </div>
 
           {/* Results Section */}
@@ -160,7 +167,7 @@ export default function SorunEklePage() {
                     <h3 className="font-semibold text-gray-900">Önerilen Çözümler</h3>
                   </div>
                   <ol className="space-y-3">
-                    {currentAnalysis.solutions.map((solution, index) => (
+                    {(currentAnalysis.solutions || []).map((solution: string, index: number) => (
                       <li key={index} className="flex items-start gap-3">
                         <span className="w-6 h-6 bg-green-200 rounded-full flex items-center justify-center text-sm font-semibold text-green-700">{index + 1}</span>
                         <span className="text-gray-700">{solution}</span>
@@ -170,30 +177,32 @@ export default function SorunEklePage() {
                 </div>
 
                 {/* Similar Cases */}
-                <div className="bg-white rounded-2xl border border-gray-200 p-6">
-                  <div className="flex items-center gap-3 mb-4">
-                    <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center text-2xl">👥</div>
-                    <h3 className="font-semibold text-gray-900">Benzer Sorunu Yaşayanlar</h3>
-                  </div>
-                  <div className="space-y-3">
-                    {currentAnalysis.similarCases.map((caseItem) => (
-                      <div key={caseItem.id} className="flex items-center justify-between p-3 bg-gray-50 rounded-xl">
-                        <div className="flex items-center gap-3">
-                          <div className="w-10 h-10 bg-gray-200 rounded-full flex items-center justify-center text-lg">{caseItem.userAvatar}</div>
-                          <div>
-                            <p className="font-medium text-gray-900">{caseItem.userName}</p>
-                            <p className="text-sm text-gray-500">{caseItem.diagnosis}</p>
+                {(currentAnalysis.similarCases || []).length > 0 && (
+                  <div className="bg-white rounded-2xl border border-gray-200 p-6">
+                    <div className="flex items-center gap-3 mb-4">
+                      <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center text-2xl">👥</div>
+                      <h3 className="font-semibold text-gray-900">Benzer Sorunu Yaşayanlar</h3>
+                    </div>
+                    <div className="space-y-3">
+                      {(currentAnalysis.similarCases || []).map((caseItem) => (
+                        <div key={caseItem.id} className="flex items-center justify-between p-3 bg-gray-50 rounded-xl">
+                          <div className="flex items-center gap-3">
+                            <div className="w-10 h-10 bg-gray-200 rounded-full flex items-center justify-center text-lg">{caseItem.userAvatar}</div>
+                            <div>
+                              <p className="font-medium text-gray-900">{caseItem.userName}</p>
+                              <p className="text-sm text-gray-500">{caseItem.diagnosis}</p>
+                            </div>
                           </div>
+                          <span className={`px-3 py-1 rounded-full text-xs font-medium ${
+                            caseItem.status === 'çözüldü' ? 'bg-green-100 text-green-700' : 'bg-amber-100 text-amber-700'
+                          }`}>
+                            {caseItem.status}
+                          </span>
                         </div>
-                        <span className={`px-3 py-1 rounded-full text-xs font-medium ${
-                          caseItem.status === 'çözüldü' ? 'bg-green-100 text-green-700' : 'bg-amber-100 text-amber-700'
-                        }`}>
-                          {caseItem.status}
-                        </span>
-                      </div>
-                    ))}
+                      ))}
+                    </div>
                   </div>
-                </div>
+                )}
               </>
             )}
 
