@@ -1,1 +1,121 @@
-İlk versiyon.Frontend ve backend kısmı eklendi.Sayfa geçişlerinde hatalar var.
+# **Takım 114**
+
+
+
+
+# Ürün İle İlgili Bilgiler
+
+## Takım Üyeleri
+
+## 👥 Ekibimiz (Contributors)
+
+| İsim Soyisim | Rolü | LinkedIn |
+| :--- | :--- | :---: |
+| [Osman Karabağ](https://github.com/osmankarabag) | Scrum Master |  [LinkedIn](https://www.linkedin.com/in/osman-karaba%C4%9F/) |
+| [Sıla Taşan](https://github.com/sila) | Product Owner | [LinkedIn](https://www.linkedin.com/in/silatasan/) |
+| [Zeynep Sude Kırmacı](https://github.com/Zeynep-Sude) | Developer | [LinkedIn](https://linkedin.com/in/zeynep_linkedin) |
+| [Eylül Ülgen](https://github.com/thunderBolt3224) | Developer | [LinkedIn](https://www.linkedin.com/in/eylül-ülgen-579828251) |
+| [Gökay](https://github.com/gokayoz35) | Developer | [LinkedIn](https://linkedin.com/in/gokay_linkedin) |
+
+
+## Ürün İsmi
+
+-AgroKlinik
+
+## Ürün Açıklaması
+
+- AgroKlinik, çiftçilerin ve tarım severlerin bitkilerindeki hastalıkları yapay zeka desteğiyle anında tespit etmelerini sağlayan modern bir web uygulamasıdır. Kullanıcılar bitki fotoğraflarını yükleyerek hastalık teşhisi alabilir, tedavi yöntemlerini öğrenebilir ve uzmanlardan klinik destek talep edebilirler.
+
+## Ürün Özellikleri
+
+- Fotoğraf analizi ile yapay zeka destekli bitki hastalığı teşhisi
+- Bitki hastalıkları tedavi/bakım rehberi
+  
+## Hedef Kitle
+
+- Çiftçiler ve tarım üreticileri
+- Evinde bitki yetiştiren hobi kullanıcıları
+- Ziraat mühendisleri ve danışmanlar
+- Botanik ve bahçecilik meraklıları
+
+# Sprint 1
+  
+## Sprint Board
+<img width="636" height="385" alt="image" src="https://github.com/user-attachments/assets/01896a6e-98d6-4ef1-a697-f1ae89921d38" />
+
+## Daily Scrum
+
+<img width="1206" height="1473" alt="image" src="https://github.com/user-attachments/assets/c6cc438f-c319-43bd-95c2-efbaa7860ada" />
+
+## Web Adresi
+
+<img width="1600" height="682" alt="WhatsApp Image 2026-07-05 at 20 26 58" src="https://github.com/user-attachments/assets/ef7da73c-53e3-454b-90b2-59a9a826872e" />
+<br>
+<img width="1600" height="690" alt="WhatsApp Image 2026-07-05 at 20 27 52" src="https://github.com/user-attachments/assets/1f2156e5-d39c-4076-8d6d-b74052834a4f" />
+<br>
+<img width="1600" height="570" alt="WhatsApp Image 2026-07-05 at 20 27 30" src="https://github.com/user-attachments/assets/d975ff19-c15a-416d-b573-e81daf481dcb" />
+<br>
+<img width="1600" height="583" alt="WhatsApp Image 2026-07-05 at 20 26 59" src="https://github.com/user-attachments/assets/6bbcce14-d485-4054-9917-162ccd307b7f" />
+<br>
+<img width="1600" height="580" alt="WhatsApp Image 2026-07-05 at 20 26 59 (1)" src="https://github.com/user-attachments/assets/cf90edc1-92d3-43b4-b5e5-c3208dbdc385" />
+
+Adres: [http://localhost:3000](http://localhost:3000)
+
+
+
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir.
+-  AgroKlinik projesinin temel arayüz tasarımları, Tailwind v4 kurulumu ve Next.js altyapısının hazırlanması bu sprint'in ana odak noktası olmuştur.
+-  Story'ler yapılacak işlere (task'lere) bölünmüştür.
+
+
+- **Sprint board update**
+
+- **Ürün Durumu**: AgroKlinik projesinin ilk çalışan Next.js arayüzü başarıyla ayağa kaldırılmış, GitHub reposuna yüklenmiş ve tasarımsal ilk aşama tamamlanmıştır.
+Veri Setleri belirlenmiştir.3 ajanlı(Teşhis,Şiddet ve Tedavi) Multi-Agent iskeleti oluşturulmuştur.
+
+- **Sprint Review**: 
+Alınan kararlar: Projenin Next.js ve şTailwind v4 altyapısı başarıyla kuruldu. globals.css üzerindeki entegrasyon sorunları giderildi. İlk arayüz tasarımları test edildi ve bir sonraki sprint'te veri setlerinin düzenlenmesi ve eğitilmesi amaçlandı.
+
+- **Sprint Retrospective:**
+  - Proje başlatma ve Git senkronizasyon süreçleri başarıyla tamamlandı.
+  - Gelecek sprintlerde backend ve API entegrasyonu için ayrılacak süre artırılmalı.
+  - Takım içi kod paylaşımı hızı optimize edilmeli.
+
+---
+
+# Sprint 2
+
+- **Sprint board update**
+<img width="1278" height="628" alt="IMG-20260714-WA0006" src="https://github.com/user-attachments/assets/04fae383-7661-48cd-a7f9-76f2d0e37226" />
+
+
+
+- **Ürün Durumu**:
+- Backend kısmı eklenmiştir.
+- Geliştirme süreci devam etmektedir.
+- Veri setleri düzenlendi ve eğitimine devam edilmektedir.
+<img width="709" height="568" alt="IMG-20260719-WA0009 (1)" src="https://github.com/user-attachments/assets/fba823f6-8518-45d2-8948-5e55d8badf50" />
+<br>
+<img width="959" height="392" alt="Hesap Oluşturma" src="https://github.com/user-attachments/assets/0d698335-1476-40cc-b59a-9c9f58660275" />
+
+- **Sprint Review**: 
+Alınan kararlar: Bir sonraki sprint'de veri seti eğitiminin tamamlanmasına karar verildi.
+- **Sprint Retrospective:**
+  - Proje başlatma ve Git senkronizasyon süreçleri başarıyla tamamlandı.
+  - Frontend ve backend kısmı eklendi.Geliştirilmeye devam ediliyor.
+  - Veri setlerinin eğitimi başarıyla sürdürülüyor.
+  - Gelecek sprintlerde  API entegrasyonu için ayrılacak süre artırılmalı.
+
+## Daily Scrum 
+<img width="1917" height="900" alt="Ekran görüntüsü 2026-07-11 220151" src="https://github.com/user-attachments/assets/b2466301-b9c9-4ed6-a43b-641eedada06e" />
+<br>
+<img width="1918" height="912" alt="Ekran görüntüsü 2026-07-17 210441" src="https://github.com/user-attachments/assets/86472e38-5a69-4455-b95e-2c47ea3650d2" />
+
+
+
+
+
+---
+
+# Sprint 3
